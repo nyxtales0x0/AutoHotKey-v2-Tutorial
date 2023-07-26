@@ -65,7 +65,7 @@ It represents a `Hotkey` or just a custom key combination that does something. N
 
 ```ahk
 {
-	MsgBox "Hello, World!"
+    MsgBox "Hello, World!"
 }
 ```
 
